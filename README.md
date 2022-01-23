@@ -1,1 +1,1 @@
-# Newton-Crandle-game
+# NC27
